@@ -6,7 +6,7 @@
 
 The purpose of the analysis was to refactor a previously created script to better its performance as measured by the timer function in VBA.
 
-### Backgroung
+### Background
 
 The background of the analysis was a previous analysis that delved into Daily Volume, Starting Price, and Ending Price, of various "Green" stocks to determine total Volume and Return for the years 2017 and 2018, such that a user could evaluate them as potential investment opportunities. 
 
